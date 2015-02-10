@@ -1,4 +1,4 @@
-####### wp-shortcode-email-antispam
+###### wp-shortcode-email-antispam
 
 > WordPress Plugin to add antispam function to email shortcode
 
