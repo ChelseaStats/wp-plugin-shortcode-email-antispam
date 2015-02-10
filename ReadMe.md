@@ -2,7 +2,9 @@
 
 > WordPress Plugin to add antispam function to email shortcode
 
-##### Displaying an email address on a page or in a post
+
+
+##### How to use
 
 <p>Emails, especially with a mailto link like the one below  can attract a lot of spam
 <pre>&lt;a href="mailto:someaddress@domain.tld"&gt;someaddress@domain.tld&lt;/a&gt;</pre>
